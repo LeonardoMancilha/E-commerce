@@ -33,7 +33,7 @@ English: Simulate a sales site whose objective is the sale of clothes, accessori
 
 <p align="center">
 
-![Captura de tela 2023-04-13 130028](https://user-images.githubusercontent.com/74615811/231818591-e11cbb5c-101c-4e2d-86c9-448af4a8c5f0.png)
+![Imagem do Projeto na versão Mobile](https://user-images.githubusercontent.com/74615811/231818591-e11cbb5c-101c-4e2d-86c9-448af4a8c5f0.png)
 
 </p>
 
@@ -41,7 +41,7 @@ English: Simulate a sales site whose objective is the sale of clothes, accessori
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 
-![Captura de tela 2023-04-13 125943](https://user-images.githubusercontent.com/74615811/231818575-3b5bcb3f-0e52-4d8a-a626-6ae0fdae8465.png)
+![Imagem do Projeto na versão Web](https://user-images.githubusercontent.com/74615811/231818575-3b5bcb3f-0e52-4d8a-a626-6ae0fdae8465.png)
   
 </p>
 
